@@ -1,1 +1,16 @@
-
+{
+  "name": "Reflect USD",
+  "symbol": "USDR",
+  "description": "",
+  "seller_fee_basis_points": 0,
+  "image": "https://raw.githubusercontent.com/palindrome-eng/usdr/refs/heads/main/USDR.png",
+  "external_url": "",
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        
+      }
+    ]
+  }
+}
